@@ -1,0 +1,17 @@
+{
+  "name": "object-structure",
+  "version": "1.0.4",
+  "description": "traverse an object, gives its structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=debug node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/e03ccd3df65a2d128247/object-structure",
+  "repository": {
+    "url": "https://github.com/e03ccd3df65a2d128247/object-structure.git",
+    "type": "git"
+  }
+}
